@@ -10,12 +10,12 @@ This project showcases data analysis and business insights using Excel. It focus
 
 
 ⚙️ Tools & Technologies  
--Software & Platforms:  
+Software & Platforms:  
 • Microsoft Excel – for data cleaning, transformation, analysis, and visualization  
 • Microsoft Power Query (Excel Add-in) – for structured data preparation and transformation  
 • Google Sheets – for dataset review and quick sharing  
 
--Key Skills Demonstrated:  
+Key Skills Demonstrated:  
 • Data cleaning and wrangling  
 • Business analytics using Excel  
 • Dashboard building and report creation  
