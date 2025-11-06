@@ -3,10 +3,10 @@
 
 📘 Project Overview
 
-This project showcases data analysis and business insights using Excel. It focuses on exploring sales performance, customer behavior, and profitability metrics through Advanced Excel and analytics. Each task is designed to answer a key business question — from identifying the top-performing branches to understanding customer segmentation and sales patterns.
--Cleaned and standardized customer, transaction, and demographic data to ensure accuracy and consistency.
--Segmented customers by wealth, gender, and industry to uncover key groups and behavioral trends.
--Analyzed sales performance and estimated Customer Lifetime Value (CLV) to identify revenue drivers and high- value segments.
+This project showcases data analysis and business insights using Excel. It focuses on exploring sales performance, customer behavior, and profitability metrics through Advanced Excel and analytics. Each task is designed to answer a key business question — from identifying the top-performing branches to understanding customer segmentation and sales patterns.  
+-Cleaned and standardized customer, transaction, and demographic data to ensure accuracy and consistency.  
+-Segmented customers by wealth, gender, and industry to uncover key groups and behavioral trends.  
+-Analyzed sales performance and estimated Customer Lifetime Value (CLV) to identify revenue drivers and high- value segments.  
 
 
 ⚙️ Tools & Technologies
