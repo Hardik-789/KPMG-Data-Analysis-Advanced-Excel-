@@ -9,7 +9,7 @@ This project showcases data analysis and business insights using Excel. It focus
 -Analyzed sales performance and estimated Customer Lifetime Value (CLV) to identify revenue drivers and high- value segments.  
 
 
-⚙️ Tools & Technologies
+⚙️ Tools & Technologies  
 -Software & Platforms:  
 • Microsoft Excel – for data cleaning, transformation, analysis, and visualization  
 • Microsoft Power Query (Excel Add-in) – for structured data preparation and transformation  
@@ -42,7 +42,7 @@ valuations.
 • Average CLV: 844,539  
 • Maximum CLV: 7,533,965    
 
-2. Recommendations:  
+Recommendations:  
 -Marketing Strategies for High-Value Customer Segments:  
 • Enhance Online Sales: Implement strategies to boost digital engagement and streamline
 the online purchasing experience.  
